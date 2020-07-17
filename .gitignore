@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
-
+*.idea
+*.bat
+gradle
+LICENSE
 # Log file
 *.log
 
